@@ -1,6 +1,6 @@
 {
-    "name": "marcoweb/simple-database-gateway",
-    "description": "Forma simples para acesso a dados MySQL utilizando REST para projetos de estudo",
+    "name": "marcoweb/gitpod-simple-database-gateway-template",
+    "description": "Forma simples para acesso a dados MySQL utilizando REST para projetos de estudo, com cofigurações para o gitpod.io",
     "version": "1.0.0-dev",
     "authors": [
         {
